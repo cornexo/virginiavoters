@@ -1,4 +1,4 @@
 virginiavoters
 ==============
 
-making voter registrations statistics for virginia more accessible
+making voter registration statistics in virginia more accessible
