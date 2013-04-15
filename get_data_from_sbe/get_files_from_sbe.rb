@@ -4,7 +4,7 @@ require 'uri'
 
 SBE_site = 'www.sbe.virginia.gov'
 Page_suffix = 'RegistrationStats.html'
-Years_to_get =['2012','2011']
+Years_to_get =['2013','2012','2011']
 Div_tag = 'span9'
 Excel_filename_regex = /Registrant\_Counts\_By\_Locality\.xls/
 Excel_filename = 'Registrant_Counts_By_Locality.xls'
